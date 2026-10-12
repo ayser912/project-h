@@ -1,5 +1,12 @@
 # Progress log
 
+## 2026-10-12: Deployed
+- Code on GitHub: `ayser912/project-h` (branch `main`).
+- Vercel project `project-h`, production at https://project-h-weld.vercel.app. Push to `main` deploys automatically.
+- Deployment protection limited to preview deployments so the production URL is public.
+- Verified live: Arabic home and English post page render (fetched after deploy).
+- Demo media re-encoded smaller (360×640, ~6 s) to keep the repo and page weight light; SVG app icon replaces the default favicon.
+
 ## 2026-10-12: Phase 0 + Phase 1 complete (demo mode)
 
 ### Features implemented

@@ -4,6 +4,10 @@ A consumer social network for health in the MENA region, Arabic first, with tran
 
 > **Working name.** "Project H" is temporary. Rebrand in `src/config/brand.ts` and the colour tokens at the top of `src/app/globals.css`.
 
+## Live demo
+
+https://project-h-weld.vercel.app (Vercel, production). Every push to `main` on [github.com/ayser912/project-h](https://github.com/ayser912/project-h) deploys automatically.
+
 ## Status
 
 **Phase 1 preview (demo mode).** The full social UI runs in Arabic (RTL) and English, on mobile and desktop. Every interaction works (like, save, follow, comment, report, block, hide, publish with photos or video, interests), but it persists **on the visitor's device only** (localStorage + IndexedDB). All seeded accounts and posts are fictional and labelled as demo data; no real credential has been checked.
@@ -68,6 +72,12 @@ e2e/                       Playwright journeys + accessibility
 docs/                      Architecture, checklist, progress, limitations
 public/demo/               Generated, clearly labelled demo media
 ```
+
+## Deployment
+
+- Hosting: Vercel project `project-h`, linked to the GitHub repo, Node 22, framework auto-detected (Next.js). No environment variables in phase 1.
+- Production (`main`) is public. Preview deployments (other branches) require a Vercel login (Vercel Authentication, previews only).
+- Region: Vercel default (`iad1`, US East). Revisit with the data-protection review before handling real user data.
 
 ## Important notes for contributors
 
