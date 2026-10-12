@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Illustration of a walking path at dusk">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#174B48"/>
+      <stop offset="0.6" stop-color="#3E7A6B"/>
+      <stop offset="1" stop-color="#E9B872"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="880" cy="430" r="90" fill="#F6D9A8" opacity="0.85"/>
+  <path d="M0 520 C 220 460 420 500 640 470 S 1020 430 1200 470 L1200 800 L0 800Z" fill="#2B5E54"/>
+  <path d="M0 600 C 260 560 520 600 760 570 S 1080 540 1200 560 L1200 800 L0 800Z" fill="#1E4A43"/>
+  <path d="M520 800 C 560 700 610 640 690 590 C 720 572 760 566 800 568 L 830 572 C 760 590 700 640 670 700 C 650 740 645 770 650 800 Z" fill="#E7DCC4" opacity="0.9"/>
+  <g fill="#CDEDE2" opacity="0.9">
+    <rect x="180" y="380" width="10" height="160" rx="4"/>
+    <circle cx="185" cy="370" r="46"/>
+    <rect x="300" y="410" width="8" height="130" rx="4"/>
+    <circle cx="304" cy="400" r="36"/>
+    <rect x="1010" y="390" width="10" height="150" rx="4"/>
+    <circle cx="1015" cy="380" r="44"/>
+  </g>
+  <g fill="#0F2B28">
+    <circle cx="700" cy="520" r="11"/>
+    <rect x="693" y="532" width="14" height="40" rx="6"/>
+    <circle cx="732" cy="516" r="11"/>
+    <rect x="725" y="528" width="14" height="44" rx="6"/>
+  </g>
+</svg>

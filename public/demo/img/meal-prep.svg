@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Illustration of meal-prep bowls on a table">
+  <rect width="1200" height="900" fill="#F1E7D6"/>
+  <rect y="560" width="1200" height="340" fill="#E2D2B6"/>
+  <g>
+    <ellipse cx="360" cy="520" rx="230" ry="78" fill="#FFFFFF"/>
+    <ellipse cx="360" cy="505" rx="200" ry="58" fill="#C9772F"/>
+    <ellipse cx="320" cy="495" rx="40" ry="14" fill="#E0A15C"/>
+    <ellipse cx="410" cy="510" rx="34" ry="12" fill="#E0A15C"/>
+    <path d="M130 520 Q 360 720 590 520" fill="#FFFFFF"/>
+  </g>
+  <g>
+    <ellipse cx="840" cy="540" rx="240" ry="80" fill="#FFFFFF"/>
+    <ellipse cx="840" cy="525" rx="210" ry="60" fill="#5E9B4A"/>
+    <circle cx="770" cy="515" r="22" fill="#D9473B"/>
+    <circle cx="880" cy="530" r="20" fill="#D9473B"/>
+    <circle cx="930" cy="505" r="16" fill="#F2C94C"/>
+    <ellipse cx="820" cy="545" rx="36" ry="12" fill="#A8D08D"/>
+    <path d="M600 540 Q 840 750 1080 540" fill="#FFFFFF"/>
+  </g>
+  <rect x="80" y="160" width="300" height="200" rx="18" fill="#126B57" opacity="0.12"/>
+  <rect x="110" y="200" width="200" height="16" rx="8" fill="#126B57" opacity="0.35"/>
+  <rect x="110" y="240" width="150" height="16" rx="8" fill="#126B57" opacity="0.25"/>
+  <rect x="110" y="280" width="180" height="16" rx="8" fill="#126B57" opacity="0.25"/>
+</svg>
